@@ -1,10 +1,7 @@
 # InsertionSortProjesi
-<<<<<<< HEAD
 ## Ödev projesi
-################################
-=======
+
 ## Proje 1
->>>>>>> ad0018f8224fd0cfaec92f9d7edac294a27d1513
 
 ## [22,27,16,2,18,6] -> Insertion Sort
 ### 1. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
